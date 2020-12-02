@@ -60,7 +60,7 @@ table {
 .title {
   font-size: 80px;
   line-height: 94px;
-  font-family: 'Roboto';
+  font-family: "Roboto";
   border-bottom: 2px solid #000;
 }
 
@@ -88,7 +88,7 @@ table {
 }
 
 .text-red {
-  color: #A00404;
+  color: #a00404;
 }
 
 .items {
@@ -102,28 +102,31 @@ table {
 
 .items .item .description {
   line-height: 36px;
-  font-family: 'Noto Sans';
+  font-family: "Noto Sans";
 }
 
-.skill, .footer {
+.skill,
+.footer {
   padding: 24px 0 36px;
   background-color: #415165;
 }
 
-.inner-skill, .inner-footer {
+.inner-skill,
+.inner-footer {
   width: 996px;
   margin: 0 auto;
   color: white;
   text-align: center;
 }
 
-.inner-skill .info-title, .inner-footer .info-title {
+.inner-skill .info-title,
+.inner-footer .info-title {
   text-align: center;
   border-color: white;
 }
 
 .inner-skill .items {
-  border-left: 1px solid #96A9C4;
+  border-left: 1px solid #96a9c4;
   padding-left: 24px;
   display: inline-block;
 }
@@ -142,7 +145,7 @@ table {
 
 .experience .items {
   margin-left: 24px;
-  border-left: 1px solid #96A9C4;
+  border-left: 1px solid #96a9c4;
   padding-left: 24px;
 }
 
